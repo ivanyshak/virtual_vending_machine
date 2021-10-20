@@ -2,7 +2,7 @@ VVM Project description
 Simple console vending machine system. 🏦
 
 Deployment
-Clone repo: ?
+Clone repo: git clone https://github.com/ivanyshak/virtual_vending_machine
 Go to project dir: cd vitrual_vending_machine
 Install bundler: gem install bundler
 Install gems: bundle install
